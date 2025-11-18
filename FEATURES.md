@@ -437,8 +437,8 @@ TESSERACT_CMD=/usr/bin/tesseract
 ## Support
 
 For questions or issues:
-- GitHub Issues: [Repository Issues](https://github.com/your-repo/issues)
-- Email: support@example.com
+- GitHub Issues: [Repository Issues](https://github.com/yss107/Medicine_Search_System/issues)
+- Email: jangidyash590@gmail.com
 - Documentation: [README.md](README.md)
 
 ---
