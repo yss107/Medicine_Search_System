@@ -304,14 +304,6 @@ For issues, questions, or feature requests:
 2. Review API_DOCUMENTATION.md
 3. Open an issue on GitHub
 
-## Next Steps
 
-After setup, try:
-1. Search for common medicines (e.g., "aspirin", "ibuprofen")
-2. Create a user account
-3. Compare two or more medicines
-4. Check for drug interactions
-5. Explore the API endpoints
-6. Run the test suite
 
 Enjoy exploring the Medicine Search System! 🎉
